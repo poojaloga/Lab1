@@ -36,6 +36,12 @@ The following **stretch** functionality is implemented:
 
 - [x] (2 pts) **User can customize the app's theme (e.g., a dog-themed background with a paw print button).**  
   - ![Image/GIF showing theme customization](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
+     
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/poojaloga/Wordle/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
