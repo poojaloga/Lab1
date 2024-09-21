@@ -41,7 +41,7 @@ The following **stretch** functionality is implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/poojaloga/Wordle/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://github.com/poojaloga/Wordle/blob/master/walkthrough.gif](https://github.com/poojaloga/Lab1/blob/master/walkthrough.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
